@@ -1,4 +1,4 @@
-# MySpot - SOLID Web Api ( "Modular monolith" )
+# MySpot - SOLID Web Api 
 API which helps to manage a parking slots, additionaly project contains a exmaple .rest file with example queries, unit test and default logger which write logs into logs.file . Project was created by following a devmentors "SOLID Web API" course.
 After launch, application will create new rows in postgress databse. 
 
