@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+qA+AC7xRCLEwl4CrLfuIKCSyOMDPzEnYGQCj96yC435PLbc/260GzmmoZuUmM/yanMygff6WlLTHp4PBlGFVQ==",
+  "success": true,
+  "projectFilePath": "D:\\projekty\\MySpot\\MySpot.Core\\MySpot.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danielk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+D:\projekty\MySpot\tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\projekty\MySpot\tests\obj\Debug\net7.0\MySpot.Tests.Unit.csproj.AssemblyReference.cache
+D:\projekty\MySpot\tests\obj\Debug\net7.0\MySpot.Tests.Unit.GeneratedMSBuildEditorConfig.editorconfig
+D:\projekty\MySpot\tests\obj\Debug\net7.0\MySpot.Tests.Unit.AssemblyInfoInputs.cache
+D:\projekty\MySpot\tests\obj\Debug\net7.0\MySpot.Tests.Unit.AssemblyInfo.cs
+D:\projekty\MySpot\tests\obj\Debug\net7.0\MySpot.Tests.Unit.csproj.CoreCompileInputs.cache

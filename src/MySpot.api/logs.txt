@@ -1,0 +1,17 @@
+2023-05-07 13:56:13.894 +02:00 [INF] Executed DbCommand (25ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (SELECT 1 FROM pg_catalog.pg_class c JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace WHERE c.relname='__EFMigrationsHistory');
+2023-05-07 13:56:14.003 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (SELECT 1 FROM pg_catalog.pg_class c JOIN pg_catalog.pg_namespace n ON n.oid=c.relnamespace WHERE c.relname='__EFMigrationsHistory');
+2023-05-07 13:56:14.020 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2023-05-07 13:56:14.063 +02:00 [INF] No migrations were applied. The database is already up to date.
+2023-05-07 13:56:14.207 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "WeeklyParkingSpots" AS w)
+2023-05-07 13:56:14.265 +02:00 [INF] Now listening on: http://localhost:5000
+2023-05-07 13:56:14.267 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-07 13:56:14.268 +02:00 [INF] Hosting environment: Development
+2023-05-07 13:56:14.268 +02:00 [INF] Content root path: D:\projekty\MySpot\src\MySpot.api
